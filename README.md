@@ -75,7 +75,7 @@ By leveraging the simplicity and effectiveness of Naive Bayes, this model provid
 
   **🎉 Enjoy using the app and detecting spam with ease!😊**
    ```
-      **https://amanraj-creator-spam-email-detection-system-spamdetector-iufy1k.streamlit.app/**
+      https://amanraj-creator-spam-email-detection-system-spamdetector-iufy1k.streamlit.app/
    ```
   &nbsp;
   &nbsp; 
@@ -110,6 +110,7 @@ By leveraging the simplicity and effectiveness of Naive Bayes, this model provid
   </a>
 </p>
 
+&nbsp; 
 &nbsp; 
 
 <p align="center"> Made with ❤️ by <a href="https://github.com/amanraj-creator">AMAN RAJ</a> </p> 
