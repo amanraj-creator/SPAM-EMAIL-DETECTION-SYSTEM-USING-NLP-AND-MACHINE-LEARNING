@@ -3,5 +3,5 @@ numpy
 scikit-learn
 nltk
 seaborn
-pickle
+
 
