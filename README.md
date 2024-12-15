@@ -2,7 +2,6 @@
 <h1 align="center">📧 SPAM EMAIL DETECTION SYSTEM </h1>
 
 &nbsp; 
-
 <h2 id="about">📖 About the Project</h2>
 <p>Spam emails are a major issue in email communication, clogging inboxes and posing security threats. The Spam Email Classifier project aims to automate the identification of spam emails using the Naive Bayes algorithm and Natural Language Processing (NLP) techniques.
 This project processes email content through NLP steps like tokenization, stopword removal, and stemming to extract features. The Naive Bayes classifier then uses these features to predict whether an email is spam or ham (non-spam) based on the likelihood of specific word occurrences.
@@ -90,7 +89,6 @@ By leveraging the simplicity and effectiveness of Naive Bayes, this model provid
 **This project is licensed under the MIT License**
 
 &nbsp; 
-
 ## 💡 Acknowledgments
 - **Inspired by real-world spam detection challenges**
 - **Special thanks to the open-source community for libraries and tools**
